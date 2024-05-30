@@ -18,8 +18,6 @@ Phase 2 : From the node embeddings made in phase 1, perform a classification.
 Result files will be saved in ./model/result directory. 
 
 
-
-pagerank.py file is for calculating message passing page rank for edge weight.
 custom_convs.py is A modified version of the GCNConv module embedded within the PyTorch Geometric.This version introduces an edge feature vector, allowing edge attributes to be learned when aggregating neighbor information.
 
 train_graph_v1.py is for single graph(heterogeneous edge) node embedding learning
