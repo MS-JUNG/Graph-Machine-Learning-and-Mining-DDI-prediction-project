@@ -1,5 +1,4 @@
 KAIST, 2024-spring, Graph Machine Learning and Mining
-Kim SangWon, Jung MinSu, Kim YiJin
 
 We perform drug-drug interaction prediction in two seperated phases. 
 
