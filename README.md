@@ -4,7 +4,8 @@ We perform drug-drug interaction prediction in two seperated phases.
 
 
 
-![two version detail](https://github.com/MS-JUNG/Graph-Machine-Learning-and-Mining-DDI-prediction-project/assets/95337623/6aa822a6-41d9-47a8-bd6b-01a6eb005af8.PNG)
+![Twoversions](https://github.com/MS-JUNG/Graph-Machine-Learning-and-Mining-DDI-prediction-project/assets/95337623/e83c918c-7f40-4135-9e5f-b2eca43f5ea5)
+
 
 
 
