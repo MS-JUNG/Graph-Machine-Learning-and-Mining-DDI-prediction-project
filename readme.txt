@@ -2,6 +2,12 @@ KAIST, 2024-spring, Graph Machine Learning and Mining
 
 We perform drug-drug interaction prediction in two seperated phases. 
 
+
+![two version detail](https://github.com/MS-JUNG/Graph-Machine-Learning-and-Mining-DDI-prediction-project/assets/95337623/0a1727b8-768c-4499-810f-e0aa9d07248e)
+
+
+
+
 Phase 1 : From the data, get the node embeddings.
  run_1_encoder.sh file is the shell script file for phase 1.
  To perform it, type this command.
