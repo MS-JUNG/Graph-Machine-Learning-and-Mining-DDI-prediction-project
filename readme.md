@@ -5,7 +5,6 @@ We perform drug-drug interaction prediction in two seperated phases.
 
 
 
-![two version detail](https://github.com/MS-JUNG/Graph-Machine-Learning-and-Mining-DDI-prediction-project/assets/95337623/f2326c8b-2f7c-4067-a018-dd685ea31926)
 
 
 Phase 1 : From the data, get the node embeddings.
