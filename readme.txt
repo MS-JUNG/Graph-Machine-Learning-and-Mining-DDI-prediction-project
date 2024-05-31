@@ -29,8 +29,6 @@ through node embeddings trained using two embedding methods (v1, v2).
 
 train_fc_v1.py
 train_fc_v2.py
-train_att_fc_kway_v1.py
-train_att_fc_kway_v2.py
 train_kway_v1.py
 train_kway_v2.py
 
