@@ -4,11 +4,6 @@ We perform drug-drug interaction prediction in two seperated phases.
 
 
 
-![Twoversions](https://github.com/MS-JUNG/Graph-Machine-Learning-and-Mining-DDI-prediction-project/assets/95337623/e83c918c-7f40-4135-9e5f-b2eca43f5ea5)
-
-
-
-
 Phase 1 : From the data, get the node embeddings.
  run_1_encoder.sh file is the shell script file for phase 1.
  To perform it, type this command.
