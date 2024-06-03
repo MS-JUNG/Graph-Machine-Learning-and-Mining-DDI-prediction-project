@@ -3,7 +3,7 @@ KAIST, 2024-spring, Graph Machine Learning and Mining
 We perform drug-drug interaction prediction in two seperated phases. 
 
 
-![two version detail](https://github.com/MS-JUNG/Graph-Machine-Learning-and-Mining-DDI-prediction-project/assets/95337623/8179dda1-dbd2-4f89-a56e-e1be120700ec)
+![two version detail](./assets/95337623/8179dda1-dbd2-4f89-a56e-e1be120700ec)
 
 
 Phase 1 : From the data, get the node embeddings.
